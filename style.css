@@ -1,0 +1,22 @@
+.place{
+    margin-left: 35px;
+}
+
+.block{
+    display: block;
+}
+
+
+.resume{
+    border-top: 12px solid blueviolet;
+    padding 20px;
+}
+
+
+.center{
+    text-align: center;
+}
+
+.inline{
+    display: inline;
+}
